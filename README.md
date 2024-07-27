@@ -6,3 +6,4 @@
 let alphabets = ['a', 'b', 'a', 'b', 'c', 'e', 'e', 'c', 'd', 'd', 'd', 'd'];
 // expected result: ['a', 'b', 'c', 'e', 'd']
 ```
+-ปฏิพงษศกร บุญมา(เจมส์)
